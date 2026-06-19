@@ -1,0 +1,4 @@
+[package]
+name = "neo-core"
+version = "0.1.0"
+entrypoint = "neo-core.typ"
